@@ -15,14 +15,14 @@ const Footer = () => {
           <Link
             className="text-base text-foreground transition-all hover:text-foreground"
             target="_blank"
-            href={"http://robinport.vercel.app"}
+            href={"http://thegr8arin.tech"}
           >
-            Robin
+            TheGr8Arin
           </Link>
         </p>
         <Link
           className="transition-all hover:text-foreground"
-          href={"mailto:robindev2007@gmail.com"}
+          href={"mailto:aryanarora270727@gmail.com"}
         >
           Send Feedback
         </Link>
