@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://codesnapshot.vercel.app">
+  <a href="https://thecodesnipit.vercel.app">
     <img
-      src='https://github.com/robindev2007/CodeSnapshot/blob/main/public/android-chrome-512x512.png?raw=true'
+      src='./images/banner1'
       alt="Hoppscotch"
       height="120"
     />
@@ -13,7 +13,7 @@
   </h3>
   <br />
   <p>
-    <a href="https://codesnipit.vercel.app">
+    <a href="https://thecodesnipit.vercel.app">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/banner.png">
         <source media="(prefers-color-scheme: light)" srcset="./images/banner.png">
