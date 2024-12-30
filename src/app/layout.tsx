@@ -14,8 +14,8 @@ const jetbrainsMono = JetBrains_Mono({
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Code Snapshot",
-  description: "Convert your code to beutyful Snapshots for free",
+  title: "Code Snipit",
+  description: "Convert your code to beautiful Snapshots for free",
   manifest: "/site.webmanifest",
   metadataBase: new URL("https://codesnapshot.vercel.app"),
   verification: {
