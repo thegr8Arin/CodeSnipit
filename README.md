@@ -17,7 +17,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/banner.png">
         <source media="(prefers-color-scheme: light)" srcset="./images/banner.png">
-        <img alt="Hoppscotch" src="./images/#">
+        <img alt="Hoppscotch" src="./images/banner1">
       </picture>
     </a>
   </p>
