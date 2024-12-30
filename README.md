@@ -14,6 +14,21 @@
   <br />
   <p>
     <a href="https://codesnipit.vercel.app">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/banner.png">
+        <source media="(prefers-color-scheme: light)" srcset="./images/banner.png">
+        <img alt="Hoppscotch" src="./images/#">
+      </picture>
+    </a>
+  </p>
+
+</div>
+
+## Examples:
+
+  <img src='images/example-1.png' >
+  <img src='images/example-2.png'>
+  <img src='images/example-3.png'>
 
 ### **Features**
 
