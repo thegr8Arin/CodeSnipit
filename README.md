@@ -47,8 +47,6 @@
 
 🌈 **Thems:** Customize able code thees
 
-🔥 **PWA:** Install as a [Progressive Web App](https://web.dev/progressive-web-apps) on your device.
-
 - Low RAM/memory and CPU usage
 - Add to Home Screen
 - Desktop PWA - ( Comming soon )
